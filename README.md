@@ -7,7 +7,8 @@ two meetings with district staff (preferably staff that have no advanced knowled
 be able to accurately and easily explain the process of my algorithm and have them intuitvely understand it. 
 
 ### When
-Goal: September 2020 - January 2021
+Goal: September 2020 - January 2021 
+
 Actual: Septemeber - November 2020
 
 ### Where
