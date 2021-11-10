@@ -7,10 +7,12 @@ two meetings with district staff (preferably staff that have no advanced knowled
 be able to accurately and easily explain the process of my algorithm and have them intuitvely understand it. 
 
 ### When
-September-January 2020
+Goal: September 2020 - January 2021
+Actual: Septemeber - November 2020
 
 ### Where
 Computational Mathematics independent study
+
 
 ### Did you succeed in your goal?
 Not entirely. I made decent headway in that Omar can successfully recognize basic sheet music, such as Mary Had a Little Lamb. Omar also allows users to select what 
